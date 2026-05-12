@@ -23,6 +23,11 @@ The asthetic is tailord for the enterprise real market, utilises high-contrast v
 * **Lead Capture:** Professionally styled contact and inquiry forms.
 * **Navigation:** A sleek, fixed header for easy access across the platform.
 
+## Tech Stack
+
+* **Language:** HTML5
+* **Icons:** High-quality vector iconography for a modern look.
+
 ### Key Features
 
 * *Semantic HTML5 Architecture*: Utilization of <header>, <main>, <section>, and <footer> for improved SEO and screen reader accessibility.

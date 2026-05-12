@@ -4,11 +4,24 @@ A high-performance, accessible, and SEO-optimized landing page for BYTEMIND,tech
 
 ## Live Demo
 
-[View Live Site on GitHub Pages](https://github.com-Conrad.008.github.io/BYTEMIND)
+[View Live Site on GitHub Pages](https://github.com-conrad008.github.io/BYTEMIND)
 
 ## Project Brief
 
 The objective was to create a professional web presence that effectively communicates a company's value proposition. This project simulates a real-world client hand-off, emphasizing cross-browser compatibility and mobile-first responsiveness.
+
+## project overview
+
+This repository contains the core stucture and design for the BYTEMIND website.
+The asthetic is tailord for the enterprise real market, utilises high-contrast visual language to improve customer navigation within the website
+
+## Current Features (Frontend)
+
+* **About us section:** Tells the story of BYTEMIND since its inception.
+* **Responsive Layout:** Fully optimized for mobile, tablet, and desktop viewing.
+* **Search Interface:** Intuitive filtering options for required services.
+* **Lead Capture:** Professionally styled contact and inquiry forms.
+* **Navigation:** A sleek, fixed header for easy access across the platform.
 
 ### Key Features
 
@@ -34,11 +47,16 @@ The objective was to create a professional web presence that effectively communi
 * *Git/GitHub*: Feature-based branching and version control.
 * *GitHub Pages*: Automated CI/CD deployment.
 
+## project structure
+├───.vscode
+└───Assets       #images, videos
+    └───assets
+
 ## Setup and Installation
 
 1. *Clone the Repository*
 ```bash
-git clone https://github.com/Conrad.008/BYTEMIND-landing-page.git
+git clone https://github.com/conrad008/BYTEMIND-landing-page.git
 
 ```
 
@@ -76,6 +94,14 @@ contributions are welcome!
 4. Push to your branch
 5. Open a Pull Request
 
+## Getting started
+**preriquisites**
+Any modern web browser (Chrome, Firefox, Safari, or Edge).
+
 ## Author
 
 *Conrad Kipngeno*
+
+## license 
+
+This project is licensed under the MIT lisence

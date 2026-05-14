@@ -1,5 +1,5 @@
 body {
-    background-color: orangered;
+    background-color: rgb(185, 83, 45);
     color: white;
 }
 
@@ -34,4 +34,62 @@ h3 {
 p {
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
+    text-decoration: underline;
+}
+
+.form-group {
+    border: 1px dotted black;
+}
+
+img {
+    border-radius: 8px;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+}
+
+.table {
+    border: 1px solid black;
+}
+
+.main-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid white;
+    padding: 15px;
+    border-radius: 8px;
+    width: 100%;
+
+}
+
+.nav-list{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    padding: 0;
+    margin: 15px 0 0 0;
+    gap: 20px;
+    
+}
+
+.nav-links{
+    font-size: 1.5rem;
+    margin-bottom: 12px;
+}
+
+.container {
+    border: 1px solid black;
+    background-color: rgb(56, 170, 170);
+    color: white;
+}
+
+.propositions {
+    border: 2px dotted black;
+    padding-right: 4px;
+    padding-left: 4px;
 }
